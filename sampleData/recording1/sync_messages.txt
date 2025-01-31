@@ -1,0 +1,3 @@
+Software Time (milliseconds since midnight Jan 1st 1970 UTC): 1738262448783
+Start Time for Neuropix-PXI (107) - ProbeA @ 30000 Hz: 734079
+Start Time for NI-DAQmx (106) - PXIe-6341 @ 30000 Hz: 739481
